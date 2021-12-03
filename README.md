@@ -9,4 +9,4 @@ Some facts...
 * 🤔 I’m looking for help to build bleeding-edge WordPress projects.
 * 💬 Ask me anything about PHP.
 * 📫 Your reach me via GitHub.
-* ⚡ Fun fact: I love doing endurance sports you can finde me on [Strava](https://www.strava.com/athletes/29542367) :)
+* ⚡ Fun fact: I love doing endurance sports you can find me on [Strava](https://www.strava.com/athletes/29542367) :)
